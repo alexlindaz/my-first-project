@@ -1,1 +1,1 @@
-# my-first-project
+This is my first public project where I am testing tools and automation scripts for digital workflows.
